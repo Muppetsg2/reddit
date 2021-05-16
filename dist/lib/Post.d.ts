@@ -11,5 +11,7 @@ export interface RedditPost {
     edited: boolean;
     nsfw: boolean;
     video: boolean;
+    comments: number;
+    awards: number;
     created: Date;
 }

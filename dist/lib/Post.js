@@ -14,6 +14,8 @@ function getData(data) {
         edited: data.edited,
         nsfw: data.over_18,
         video: data.is_video,
+        comments: data.num_comments,
+        awards: data.total_awards_received,
         created: new Date(data.created * 1000)
     };
 }
