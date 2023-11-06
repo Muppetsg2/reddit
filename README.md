@@ -84,3 +84,4 @@ and that's currently all it has to offer. It will let you know if you have enter
 
 I hope this package aids you in using reddit's api
 # [Support Server](https://discord.com/invite/XVxhVvG)
+# [Original Repository](https://github.com/cxllm/reddit)
