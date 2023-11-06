@@ -60,6 +60,8 @@ All these methods return the data format below with different data:
   edited: false,
   nsfw: false,
   video: false,
+  comments: 10,
+  awards: 1,
   created: 2020-08-25T15:19:25.000Z
 }
 ```
