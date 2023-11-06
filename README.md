@@ -1,11 +1,6 @@
-# @cxllm/reddit
+# Fork of @cxllm/reddit
 This package aims to make using reddit's api easier for the average user. It includes a package which is used in code, and a cli to be used in the command line
 It can be used in both js and ts
-## Installing
-### Package
-`npm i @cxllm/reddit`
-### CLI
-`npm i -g @cxllm/reddit`
 ## Package documentation
 The package currently has 5 methods, 4 of which work in the same way and return the same data format
 ### Importing/Requiring:
